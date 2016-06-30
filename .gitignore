@@ -1,0 +1,8 @@
+*.sdf
+*.sln
+*.suo
+debug/
+Release/
+Dispersion/Debug/
+Dispersion/Release/
+*.vc*
