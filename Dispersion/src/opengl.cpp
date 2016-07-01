@@ -1,5 +1,4 @@
-﻿#include "stdafx.h"
-#include "opengl.h"
+﻿#include "opengl.h"
 #include "multi_thread.h"
 #include <string>
 #include <math.h>
